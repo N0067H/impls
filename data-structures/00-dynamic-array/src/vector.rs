@@ -1,5 +1,3 @@
-#![feature(layout_for_ptr)]
-
 use std::{
     alloc::{Layout, alloc, dealloc, handle_alloc_error, realloc},
     ops::Index,

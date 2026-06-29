@@ -1,4 +1,5 @@
 mod vector;
+mod vector_iter;
 
 use crate::vector::Vector;
 
